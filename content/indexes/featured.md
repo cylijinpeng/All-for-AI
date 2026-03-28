@@ -2,41 +2,29 @@
 
 Short list of high-signal starting points from the current collection.
 
-## Skills
+## Use immediately
 
-- [Code Review Skill](../skills/coding/code-review-skill/README.md)
+- [Original Assets](original-assets.md)
+- [Start Here](start-here.md)
+- [Browse by Scenario](by-scenario.md)
+- [Builder Landscape](landscape.md)
+
+## Best starting points
+
+- [AI Coding Pack](../starter-packs/ai-coding-pack/README.md)
+- [Deep Research Pack](../starter-packs/deep-research-pack/README.md)
+- [MCP Automation Pack](../starter-packs/mcp-automation-pack/README.md)
+- [RAG Production Pack](../starter-packs/rag-production-pack/README.md)
+- [Evaluation Pack](../starter-packs/evaluation-pack/README.md)
+- [Local Model Pack](../starter-packs/local-model-pack/README.md)
+
+## Best reference ecosystems
+
 - [Anthropic Skills](../skills/reference/anthropic-skills/README.md)
 - [OpenAI Skills](../skills/reference/openai-skills/README.md)
-
-## Prompts
-
-- [PR Review Prompt](../prompts/coding/pr-review/README.md)
 - [Prompt Engineering Guide](../prompts/reference/prompt-engineering-guide/README.md)
-- [GitHub Prompt Files](../instructions/github-prompt-files/README.md)
-
-## Instructions
-
-- [AGENTS.md Standard](../instructions/agents-md-standard/README.md)
-- [GitHub Copilot Custom Instructions](../instructions/copilot-custom-instructions/README.md)
-
-## MCP
-
 - [Model Context Protocol Overview](../mcp/official-overview/README.md)
-- [MCP Reference Servers](../mcp/reference-servers/README.md)
-- [MCP Inspector](../mcp/inspector/README.md)
-
-## Frameworks
-
 - [OpenAI Agents SDK (JavaScript/TypeScript)](../frameworks/openai-agents-js/README.md)
-- [OpenAI Agents SDK (Python)](../frameworks/openai-agents-python/README.md)
 - [LangGraph](../frameworks/langgraph/README.md)
-
-## Evals
-
 - [promptfoo](../evals/promptfoo/README.md)
-- [OpenAI Evals](../evals/openai-evals/README.md)
-
-## Examples
-
 - [OpenAI Cookbook](../examples/reference/openai-cookbook/README.md)
-- [Awesome LLM Apps](../examples/reference/awesome-llm-apps/README.md)

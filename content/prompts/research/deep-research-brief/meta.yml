@@ -1,0 +1,15 @@
+name: Deep Research Brief Prompt
+type: prompt
+category: prompts
+summary: Prompt for turning a broad topic into a focused research brief with questions, sources, and synthesis goals.
+scenarios:
+  - research
+  - analysis
+tags:
+  - llm
+  - prompt-engineering
+  - productivity
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

@@ -1,0 +1,15 @@
+name: Agent UI
+type: repo
+category: examples
+summary: Open-source UI for connecting to and interacting with agent backends.
+scenarios:
+  - coding
+  - automation
+tags:
+  - productivity
+  - agent
+  - llm
+level: beginner
+status: active
+links:
+  repo: https://github.com/agno-agi/agent-ui

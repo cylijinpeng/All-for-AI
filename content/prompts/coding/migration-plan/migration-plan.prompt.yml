@@ -1,0 +1,32 @@
+name: Migration Plan
+description: Prompt for planning a safe migration across APIs, frameworks, data models, or architecture boundaries.
+model: openai/gpt-4o-mini
+modelParameters:
+  temperature: 0.2
+messages:
+  - role: system
+    content: >
+      You are a practical AI builder assistant. Produce a structured, action-oriented result.
+      Prefer concrete outputs over vague advice and clearly flag uncertainties.
+  - role: user
+    content: |
+      Help with the following task.
+
+      Input:
+      {{input}}
+
+      Context:
+      {{context}}
+
+      Treat the input as current state and target state.
+
+      Return:
+      1. Migration phases
+      2. Compatibility risks
+      3. Rollback plan
+      4. Validation checkpoints
+testData:
+  - input: |
+      input: example task
+      context: example context
+    expected: The output should be structured and action-oriented.

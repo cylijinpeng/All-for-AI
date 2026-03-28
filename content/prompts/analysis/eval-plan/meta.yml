@@ -1,0 +1,15 @@
+name: Eval Plan Prompt
+type: prompt
+category: prompts
+summary: Prompt for designing an evaluation plan for prompts, agents, or LLM application quality.
+scenarios:
+  - analysis
+  - analysis
+tags:
+  - llm
+  - prompt-engineering
+  - productivity
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

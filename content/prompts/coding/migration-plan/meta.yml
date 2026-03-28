@@ -1,0 +1,15 @@
+name: Migration Plan Prompt
+type: prompt
+category: prompts
+summary: Prompt for planning a safe migration across APIs, frameworks, data models, or architecture boundaries.
+scenarios:
+  - coding
+  - analysis
+tags:
+  - llm
+  - prompt-engineering
+  - productivity
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

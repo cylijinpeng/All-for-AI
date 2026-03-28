@@ -1,0 +1,15 @@
+name: Milvus
+type: repo
+category: retrieval
+summary: High-performance vector database for large-scale similarity search and retrieval.
+scenarios:
+  - research
+  - automation
+tags:
+  - rag
+  - retrieval
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/milvus-io/milvus

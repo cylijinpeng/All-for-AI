@@ -1,0 +1,15 @@
+name: Haystack Cookbook
+type: repo
+category: examples
+summary: Collection of practical examples for Haystack pipelines, agents, and RAG.
+scenarios:
+  - coding
+  - automation
+tags:
+  - productivity
+  - agent
+  - llm
+level: beginner
+status: active
+links:
+  repo: https://github.com/deepset-ai/haystack-cookbook

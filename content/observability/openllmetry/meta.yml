@@ -1,0 +1,15 @@
+name: OpenLLMetry
+type: repo
+category: observability
+summary: OpenTelemetry-based observability toolkit for LLM and agent applications.
+scenarios:
+  - analysis
+  - automation
+tags:
+  - observability
+  - productivity
+  - evaluation
+level: intermediate
+status: active
+links:
+  repo: https://github.com/traceloop/openllmetry

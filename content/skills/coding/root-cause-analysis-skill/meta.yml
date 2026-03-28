@@ -1,0 +1,15 @@
+name: Root Cause Analysis Skill
+type: skill
+category: skills
+summary: Reusable debugging skill for narrowing incidents and regressions down to the most likely root cause.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - productivity
+  - llm
+level: intermediate
+status: starter
+links:
+  docs: https://github.com/cylijinpeng/All-for-AI

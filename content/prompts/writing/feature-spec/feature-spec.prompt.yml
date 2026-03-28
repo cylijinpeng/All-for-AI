@@ -1,0 +1,32 @@
+name: Feature Spec
+description: Prompt for turning a rough feature idea into a clear functional and technical spec.
+model: openai/gpt-4o-mini
+modelParameters:
+  temperature: 0.2
+messages:
+  - role: system
+    content: >
+      You are a practical AI builder assistant. Produce a structured, action-oriented result.
+      Prefer concrete outputs over vague advice and clearly flag uncertainties.
+  - role: user
+    content: |
+      Help with the following task.
+
+      Input:
+      {{input}}
+
+      Context:
+      {{context}}
+
+      Treat the input as idea, constraints, and audience.
+
+      Return:
+      1. Problem
+      2. User and use cases
+      3. Scope and non-goals
+      4. Implementation outline
+testData:
+  - input: |
+      input: example task
+      context: example context
+    expected: The output should be structured and action-oriented.

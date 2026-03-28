@@ -1,0 +1,15 @@
+name: Claude Code Memory and CLAUDE.md
+type: guide
+category: instructions
+summary: Official Anthropic documentation for Claude Code memory, including project memory files such as CLAUDE.md.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - productivity
+  - copilot
+level: beginner
+status: active
+links:
+  docs: https://docs.anthropic.com/en/docs/claude-code/memory

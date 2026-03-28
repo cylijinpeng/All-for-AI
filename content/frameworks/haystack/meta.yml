@@ -1,0 +1,15 @@
+name: Haystack
+type: repo
+category: frameworks
+summary: Open-source framework for production-ready LLM applications, pipelines, and RAG.
+scenarios:
+  - coding
+  - automation
+tags:
+  - framework
+  - agent
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/deepset-ai/haystack

@@ -1,0 +1,15 @@
+name: Mastra
+type: repo
+category: frameworks
+summary: TypeScript framework for building AI applications and agents with workflows, evals, and integrations.
+scenarios:
+  - coding
+  - automation
+tags:
+  - framework
+  - agent
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/mastra-ai/mastra

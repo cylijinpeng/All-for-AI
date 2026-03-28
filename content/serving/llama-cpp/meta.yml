@@ -1,0 +1,15 @@
+name: llama.cpp
+type: repo
+category: serving
+summary: Portable inference engine for running LLMs efficiently on CPUs and consumer hardware.
+scenarios:
+  - automation
+  - analysis
+tags:
+  - serving
+  - local-models
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/ggml-org/llama.cpp

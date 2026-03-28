@@ -1,0 +1,15 @@
+name: OpenInference
+type: repo
+category: observability
+summary: Open standard and instrumentation ecosystem for tracing AI applications.
+scenarios:
+  - analysis
+  - automation
+tags:
+  - observability
+  - productivity
+  - evaluation
+level: intermediate
+status: active
+links:
+  repo: https://github.com/Arize-ai/openinference

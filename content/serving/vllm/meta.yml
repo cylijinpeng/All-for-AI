@@ -1,0 +1,15 @@
+name: vLLM
+type: repo
+category: serving
+summary: High-throughput and memory-efficient inference engine for LLM serving.
+scenarios:
+  - automation
+  - analysis
+tags:
+  - serving
+  - local-models
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/vllm-project/vllm

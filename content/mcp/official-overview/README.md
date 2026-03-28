@@ -16,4 +16,4 @@ This is the best starting point before choosing specific servers or SDKs.
 
 ## Reference
 
-- Docs: https://modelcontextprotocol.io/home
+- Docs: https://modelcontextprotocol.io/docs/learn/architecture

@@ -1,0 +1,15 @@
+name: mcp-use
+type: repo
+category: mcp
+summary: Open-source library for connecting any LLM to any MCP server and building custom MCP-powered agents.
+scenarios:
+  - automation
+  - coding
+tags:
+  - mcp
+  - agent
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/mcp-use/mcp-use

@@ -9,9 +9,13 @@ This repository keeps one physical copy of each resource. Discovery happens thro
 - `instructions`
 - `mcp`
 - `frameworks`
+- `retrieval`
+- `observability`
+- `serving`
 - `evals`
 - `workflows`
 - `examples`
+- `starter-packs`
 
 ## Resource types
 
@@ -48,7 +52,11 @@ This repository keeps one physical copy of each resource. Discovery happens thro
 - `evaluation`
 - `framework`
 - `productivity`
+- `observability`
 - `prompt-engineering`
+- `retrieval`
+- `serving`
 - `sdk`
+- `local-models`
 
 Prefer existing tags from `data/taxonomy/` before inventing new ones.

@@ -1,0 +1,15 @@
+name: Agno
+type: repo
+category: frameworks
+summary: Framework for building multimodal agents with memory, tools, knowledge, and teams.
+scenarios:
+  - coding
+  - automation
+tags:
+  - framework
+  - agent
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/agno-agi/agno

@@ -1,0 +1,15 @@
+name: Weaviate Recipes
+type: repo
+category: examples
+summary: Hands-on examples and recipes for retrieval, semantic search, and vector workflows.
+scenarios:
+  - coding
+  - automation
+tags:
+  - productivity
+  - agent
+  - llm
+level: beginner
+status: active
+links:
+  repo: https://github.com/weaviate/recipes

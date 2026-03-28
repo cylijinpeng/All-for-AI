@@ -1,0 +1,11 @@
+---
+description: Project rule for AI editing behavior
+globs:
+  - "src/**/*"
+alwaysApply: false
+---
+
+- Understand the local architecture before editing.
+- Keep changes focused and easy to review.
+- Run the narrowest relevant verification step.
+- Do not rewrite unrelated files.

@@ -1,0 +1,15 @@
+name: Refactor Plan Prompt
+type: prompt
+category: prompts
+summary: Prompt for converting messy code or a broad cleanup request into a staged refactor plan.
+scenarios:
+  - coding
+  - analysis
+tags:
+  - llm
+  - prompt-engineering
+  - productivity
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

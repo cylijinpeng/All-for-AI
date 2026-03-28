@@ -1,0 +1,15 @@
+name: Tool Selection Skill
+type: skill
+category: skills
+summary: Skill for choosing frameworks, MCP servers, retrieval layers, or eval tools based on concrete constraints.
+scenarios:
+  - analysis
+  - automation
+tags:
+  - agent
+  - productivity
+  - llm
+level: intermediate
+status: starter
+links:
+  docs: https://github.com/cylijinpeng/All-for-AI

@@ -1,0 +1,15 @@
+name: smolagents
+type: repo
+category: frameworks
+summary: Lightweight agent framework from Hugging Face focused on simple, code-first agents.
+scenarios:
+  - coding
+  - automation
+tags:
+  - framework
+  - agent
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/huggingface/smolagents

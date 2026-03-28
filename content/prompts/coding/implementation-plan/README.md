@@ -1,0 +1,20 @@
+# Implementation Plan prompt
+
+## Summary
+
+Prompt for turning a feature request into a buildable implementation plan.
+
+## Use cases
+
+- turning vague requests into structured outputs
+- giving coding or research agents a clearer task frame
+- speeding up early planning work
+
+## Output expectation
+
+The response should include:
+
+- Requirements
+- Affected areas
+- Implementation steps
+- Verification plan

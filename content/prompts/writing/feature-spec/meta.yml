@@ -1,0 +1,15 @@
+name: Feature Spec Prompt
+type: prompt
+category: prompts
+summary: Prompt for turning a rough feature idea into a clear functional and technical spec.
+scenarios:
+  - writing
+  - analysis
+tags:
+  - llm
+  - prompt-engineering
+  - productivity
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

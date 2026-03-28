@@ -1,0 +1,15 @@
+name: OpenLIT
+type: repo
+category: observability
+summary: Open-source observability for LLMs, GPUs, vector databases, and model-serving systems.
+scenarios:
+  - analysis
+  - automation
+tags:
+  - observability
+  - productivity
+  - evaluation
+level: intermediate
+status: active
+links:
+  repo: https://github.com/openlit/openlit

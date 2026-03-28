@@ -1,0 +1,15 @@
+name: MCP Server Design Prompt
+type: prompt
+category: prompts
+summary: Prompt for scoping an MCP server around a concrete tool or data source.
+scenarios:
+  - automation
+  - analysis
+tags:
+  - llm
+  - prompt-engineering
+  - productivity
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

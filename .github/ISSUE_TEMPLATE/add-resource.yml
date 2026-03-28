@@ -21,9 +21,13 @@ body:
         - instructions
         - mcp
         - frameworks
+        - retrieval
+        - observability
+        - serving
         - evals
         - workflows
         - examples
+        - starter-packs
     validations:
       required: true
   - type: textarea

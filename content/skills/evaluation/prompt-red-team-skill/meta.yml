@@ -1,0 +1,15 @@
+name: Prompt Red Team Skill
+type: skill
+category: skills
+summary: Skill for stress-testing prompts and agent instructions against failure modes, ambiguity, and abuse.
+scenarios:
+  - analysis
+  - automation
+tags:
+  - agent
+  - productivity
+  - llm
+level: intermediate
+status: starter
+links:
+  docs: https://github.com/cylijinpeng/All-for-AI

@@ -1,0 +1,15 @@
+name: Spec to Implementation Workflow
+type: workflow
+category: workflows
+summary: Workflow for converting a written spec into an implementation plan, code changes, and verification.
+scenarios:
+  - automation
+  - analysis
+tags:
+  - productivity
+  - agent
+  - llm
+level: beginner
+status: starter
+links:
+  docs: https://github.com/cylijinpeng/All-for-AI

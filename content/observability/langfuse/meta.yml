@@ -1,0 +1,15 @@
+name: Langfuse
+type: repo
+category: observability
+summary: Open-source LLM engineering platform for tracing, prompt management, evals, and metrics.
+scenarios:
+  - analysis
+  - automation
+tags:
+  - observability
+  - productivity
+  - evaluation
+level: intermediate
+status: active
+links:
+  repo: https://github.com/langfuse/langfuse

@@ -1,0 +1,15 @@
+name: Weaviate
+type: repo
+category: retrieval
+summary: Open-source vector database and retrieval platform for semantic applications.
+scenarios:
+  - research
+  - automation
+tags:
+  - rag
+  - retrieval
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/weaviate/weaviate

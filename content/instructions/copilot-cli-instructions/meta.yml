@@ -1,0 +1,15 @@
+name: GitHub Copilot CLI Repository Instructions
+type: guide
+category: instructions
+summary: Official GitHub documentation for adding repository instructions that Copilot coding agent can use from the CLI.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - productivity
+  - copilot
+level: beginner
+status: active
+links:
+  docs: https://docs.github.com/en/copilot/how-tos/copilot-cli/add-repository-instructions

@@ -1,0 +1,13 @@
+---
+description: Rules for curating resource entries in this repository
+globs:
+  - "content/**/*.md"
+  - "content/**/*.yml"
+alwaysApply: false
+---
+
+- Prefer practical AI builder resources over generic AI news or hype.
+- Keep one resource per folder under `content/`.
+- Include both `README.md` and `meta.yml` for resource entries.
+- Write short summaries that explain why the resource matters.
+- Avoid duplicate resources unless there is a clear distinction.

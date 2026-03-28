@@ -1,0 +1,15 @@
+name: SGLang
+type: repo
+category: serving
+summary: Serving and programming framework focused on fast structured generation and agent workloads.
+scenarios:
+  - automation
+  - analysis
+tags:
+  - serving
+  - local-models
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/sgl-project/sglang

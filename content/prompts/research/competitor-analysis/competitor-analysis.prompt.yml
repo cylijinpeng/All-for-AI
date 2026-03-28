@@ -1,0 +1,32 @@
+name: Competitor Analysis
+description: Prompt for comparing products, projects, or approaches and extracting meaningful positioning differences.
+model: openai/gpt-4o-mini
+modelParameters:
+  temperature: 0.2
+messages:
+  - role: system
+    content: >
+      You are a practical AI builder assistant. Produce a structured, action-oriented result.
+      Prefer concrete outputs over vague advice and clearly flag uncertainties.
+  - role: user
+    content: |
+      Help with the following task.
+
+      Input:
+      {{input}}
+
+      Context:
+      {{context}}
+
+      Treat the input as competitors and context.
+
+      Return:
+      1. Comparison axes
+      2. Strengths and weaknesses
+      3. Positioning gaps
+      4. Strategic takeaways
+testData:
+  - input: |
+      input: example task
+      context: example context
+    expected: The output should be structured and action-oriented.

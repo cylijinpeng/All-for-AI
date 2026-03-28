@@ -9,9 +9,11 @@ This repository accepts curated resources, original templates, and starter imple
 - Instruction resources such as AGENTS.md and Copilot guidance
 - MCP servers or integration starters
 - Framework and SDK references that matter to builders
+- Retrieval, serving, and observability tools that are widely useful in real AI systems
 - Evaluation tools and testing references
 - Workflows that describe an end-to-end outcome
 - Examples that are runnable or close to runnable
+- Starter packs that recommend a concrete stack for a real use case
 
 ## What not to add
 

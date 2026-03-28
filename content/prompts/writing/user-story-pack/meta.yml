@@ -1,0 +1,15 @@
+name: User Story Pack Prompt
+type: prompt
+category: prompts
+summary: Prompt for turning a product idea into user stories, acceptance criteria, and release slices.
+scenarios:
+  - writing
+  - analysis
+tags:
+  - llm
+  - prompt-engineering
+  - productivity
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

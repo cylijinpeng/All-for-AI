@@ -1,0 +1,15 @@
+name: Spec Writing Skill
+type: skill
+category: skills
+summary: Skill for turning a rough feature idea into a clear technical spec and implementation plan.
+scenarios:
+  - writing
+  - automation
+tags:
+  - agent
+  - productivity
+  - llm
+level: intermediate
+status: starter
+links:
+  docs: https://github.com/cylijinpeng/All-for-AI

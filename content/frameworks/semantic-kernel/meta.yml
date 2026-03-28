@@ -1,0 +1,15 @@
+name: Semantic Kernel
+type: repo
+category: frameworks
+summary: SDK and orchestration framework for integrating AI models, plugins, memory, and business logic.
+scenarios:
+  - coding
+  - automation
+tags:
+  - framework
+  - agent
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/microsoft/semantic-kernel

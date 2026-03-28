@@ -1,0 +1,15 @@
+name: Competitor Analysis Prompt
+type: prompt
+category: prompts
+summary: Prompt for comparing products, projects, or approaches and extracting meaningful positioning differences.
+scenarios:
+  - research
+  - analysis
+tags:
+  - llm
+  - prompt-engineering
+  - productivity
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

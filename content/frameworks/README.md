@@ -14,3 +14,8 @@ Major agent, orchestration, retrieval, and workflow frameworks used by AI builde
 - [`dspy`](dspy/README.md)
 - [`promptflow`](promptflow/README.md)
 - [`litellm`](litellm/README.md)
+- [`semantic-kernel`](semantic-kernel/README.md)
+- [`smolagents`](smolagents/README.md)
+- [`mastra`](mastra/README.md)
+- [`agno`](agno/README.md)
+- [`haystack`](haystack/README.md)

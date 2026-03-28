@@ -1,0 +1,15 @@
+name: Qdrant
+type: repo
+category: retrieval
+summary: Vector database for semantic search, filtering, and recommendation systems.
+scenarios:
+  - research
+  - automation
+tags:
+  - rag
+  - retrieval
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/qdrant/qdrant

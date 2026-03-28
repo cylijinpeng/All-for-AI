@@ -1,0 +1,15 @@
+name: Architecture Review Prompt
+type: prompt
+category: prompts
+summary: Prompt for reviewing a system design or repository architecture and surfacing the most meaningful risks.
+scenarios:
+  - coding
+  - analysis
+tags:
+  - llm
+  - prompt-engineering
+  - productivity
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

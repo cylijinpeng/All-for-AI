@@ -1,0 +1,15 @@
+name: Test Strategy Prompt
+type: prompt
+category: prompts
+summary: Prompt for designing the smallest effective test plan for a change or feature.
+scenarios:
+  - coding
+  - analysis
+tags:
+  - llm
+  - prompt-engineering
+  - productivity
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

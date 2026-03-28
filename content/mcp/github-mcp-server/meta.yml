@@ -1,0 +1,15 @@
+name: GitHub MCP Server
+type: repo
+category: mcp
+summary: GitHub's official MCP server for repositories, issues, pull requests, workflows, and code context.
+scenarios:
+  - coding
+  - automation
+tags:
+  - mcp
+  - agent
+  - productivity
+level: beginner
+status: active
+links:
+  repo: https://github.com/github/github-mcp-server

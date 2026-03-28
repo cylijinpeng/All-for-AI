@@ -1,0 +1,15 @@
+name: AI Coding Pack
+type: starter-pack
+category: starter-packs
+summary: Starter pack for code-focused AI workflows, including instructions, prompts, skills, frameworks, and eval tools.
+scenarios:
+  - automation
+  - analysis
+tags:
+  - productivity
+  - agent
+  - llm
+level: beginner
+status: starter
+links:
+  docs: https://github.com/cylijinpeng/All-for-AI

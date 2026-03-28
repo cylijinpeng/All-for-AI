@@ -1,0 +1,15 @@
+name: Phoenix
+type: repo
+category: observability
+summary: Open-source AI observability and evaluation platform for tracing, experiments, and RAG inspection.
+scenarios:
+  - analysis
+  - automation
+tags:
+  - observability
+  - productivity
+  - evaluation
+level: intermediate
+status: active
+links:
+  repo: https://github.com/Arize-ai/phoenix

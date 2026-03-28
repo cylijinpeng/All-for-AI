@@ -1,0 +1,15 @@
+name: RAG Audit to Improvements Workflow
+type: workflow
+category: workflows
+summary: Workflow for auditing a retrieval system and converting findings into a prioritized improvement plan.
+scenarios:
+  - automation
+  - analysis
+tags:
+  - productivity
+  - agent
+  - llm
+level: beginner
+status: starter
+links:
+  docs: https://github.com/cylijinpeng/All-for-AI

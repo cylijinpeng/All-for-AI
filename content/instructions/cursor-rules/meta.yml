@@ -1,0 +1,15 @@
+name: Cursor Rules
+type: guide
+category: instructions
+summary: Official Cursor documentation for repository and project rules that shape agent behavior.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - productivity
+  - copilot
+level: beginner
+status: active
+links:
+  docs: https://docs.cursor.com/context/rules

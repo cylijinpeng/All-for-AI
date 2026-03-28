@@ -1,0 +1,15 @@
+name: pgvector
+type: repo
+category: retrieval
+summary: PostgreSQL extension for vector similarity search inside Postgres.
+scenarios:
+  - research
+  - automation
+tags:
+  - rag
+  - retrieval
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/pgvector/pgvector
