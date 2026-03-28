@@ -1,0 +1,15 @@
+name: Awesome MCP Servers
+type: repo
+category: mcp
+summary: Curated directory for discovering MCP servers beyond the official references.
+scenarios:
+  - automation
+  - analysis
+tags:
+  - mcp
+  - productivity
+  - agent
+level: beginner
+status: active
+links:
+  repo: https://github.com/appcypher/awesome-mcp-servers

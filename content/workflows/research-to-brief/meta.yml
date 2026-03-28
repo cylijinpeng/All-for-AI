@@ -1,0 +1,15 @@
+name: Research to Brief Workflow
+type: workflow
+category: workflows
+summary: Workflow for converting open-ended research into a concise decision brief.
+scenarios:
+  - research
+  - writing
+tags:
+  - research
+  - productivity
+  - agent
+level: beginner
+status: starter
+links:
+  repo: https://github.com/openai/openai-cookbook

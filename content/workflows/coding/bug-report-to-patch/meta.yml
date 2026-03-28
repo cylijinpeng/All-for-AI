@@ -1,0 +1,15 @@
+name: Bug Report to Patch Workflow
+type: workflow
+category: workflows
+summary: Workflow for turning an incoming bug report into a safe, verified fix.
+scenarios:
+  - coding
+  - automation
+tags:
+  - coding
+  - productivity
+  - agent
+level: intermediate
+status: starter
+links:
+  repo: https://github.com/openai/openai-cookbook

@@ -1,0 +1,15 @@
+name: Browser Use MCP Starter
+type: mcp-server
+category: mcp
+summary: Starter reference for browser-based MCP workflows and integrations.
+scenarios:
+  - research
+  - automation
+tags:
+  - mcp
+  - browser
+  - agent
+level: intermediate
+status: starter
+links:
+  repo: https://github.com/microsoft/playwright-mcp

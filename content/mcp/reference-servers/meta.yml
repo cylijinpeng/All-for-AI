@@ -1,0 +1,15 @@
+name: MCP Reference Servers
+type: repo
+category: mcp
+summary: Official collection of reference MCP servers and implementation patterns.
+scenarios:
+  - automation
+  - research
+tags:
+  - mcp
+  - agent
+  - productivity
+level: beginner
+status: active
+links:
+  repo: https://github.com/modelcontextprotocol/servers

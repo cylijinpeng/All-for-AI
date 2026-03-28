@@ -1,0 +1,15 @@
+name: Paper Summary Prompt
+type: prompt
+category: prompts
+summary: Prompt for summarizing a paper into decision-relevant takeaways.
+scenarios:
+  - research
+  - writing
+tags:
+  - research
+  - llm
+  - productivity
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

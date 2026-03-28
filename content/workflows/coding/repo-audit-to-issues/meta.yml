@@ -1,0 +1,15 @@
+name: Repository Audit to Issues Workflow
+type: workflow
+category: workflows
+summary: Workflow for converting repository inspection into a prioritized backlog.
+scenarios:
+  - coding
+  - analysis
+tags:
+  - coding
+  - productivity
+  - evaluation
+level: beginner
+status: starter
+links:
+  repo: https://github.com/openai/openai-cookbook

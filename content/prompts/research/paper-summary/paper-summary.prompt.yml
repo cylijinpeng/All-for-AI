@@ -1,0 +1,31 @@
+name: Paper Summary
+description: Converts a paper into an implementation-oriented summary with risks and transferable ideas.
+model: openai/gpt-4o-mini
+modelParameters:
+  temperature: 0.2
+messages:
+  - role: system
+    content: >
+      You are a research analyst. Summarize the source for a builder who wants the important ideas fast.
+      Preserve uncertainty and avoid inventing evidence.
+  - role: user
+    content: |
+      Summarize the following source.
+
+      Title:
+      {{title}}
+
+      Abstract or content:
+      {{content}}
+
+      Return:
+      1. Problem
+      2. Method
+      3. Key findings
+      4. Limits
+      5. Transferable ideas
+testData:
+  - input: |
+      title: Retrieval-Augmented Example Paper
+      content: A paper proposing a new retrieval pipeline with lower latency.
+    expected: The output should mention latency as a central result or claim.

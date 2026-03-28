@@ -1,0 +1,30 @@
+name: Repository Audit
+description: Audits a repository and returns strengths, risks, and next steps.
+model: openai/gpt-4o-mini
+modelParameters:
+  temperature: 0.2
+messages:
+  - role: system
+    content: >
+      You are a senior engineer performing a fast repository audit.
+      Focus on purpose, structure, completeness, risk, and the next practical improvement.
+  - role: user
+    content: |
+      Audit the following repository context.
+
+      Repository summary:
+      {{repo_summary}}
+
+      Important files:
+      {{important_files}}
+
+      Return:
+      1. What the repo is for
+      2. Strength signals
+      3. Risks or missing pieces
+      4. Best next improvement
+testData:
+  - input: |
+      repo_summary: Small AI tooling repo with README, scripts, and no tests
+      important_files: README.md, package.json, scripts/build.js
+    expected: The output should identify missing tests as a risk.

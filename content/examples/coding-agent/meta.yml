@@ -1,0 +1,15 @@
+name: Coding Agent Example
+type: example
+category: examples
+summary: Blueprint for a practical coding agent workflow with inspection, editing, and verification steps.
+scenarios:
+  - coding
+  - automation
+tags:
+  - coding
+  - agent
+  - productivity
+level: intermediate
+status: starter
+links:
+  repo: https://github.com/openai/openai-agents-python

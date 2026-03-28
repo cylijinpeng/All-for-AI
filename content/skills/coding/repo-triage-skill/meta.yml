@@ -1,0 +1,15 @@
+name: Repository Triage Skill
+type: skill
+category: skills
+summary: Understand an unfamiliar repository and propose the next smallest useful task.
+scenarios:
+  - coding
+  - automation
+tags:
+  - coding
+  - agent
+  - productivity
+level: beginner
+status: starter
+links:
+  repo: https://github.com/openai/skills

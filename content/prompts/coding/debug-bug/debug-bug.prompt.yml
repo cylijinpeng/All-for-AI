@@ -1,0 +1,35 @@
+name: Debug Bug
+description: Turns a rough bug report into a concrete debugging plan.
+model: openai/gpt-4o-mini
+modelParameters:
+  temperature: 0.2
+messages:
+  - role: system
+    content: >
+      You are a senior software engineer. Turn the user's bug report into a precise debugging plan.
+      Focus on reproduction, observability, likely causes, and the safest next steps.
+  - role: user
+    content: |
+      Analyze the following bug report.
+
+      Project context:
+      {{project_context}}
+
+      Bug report:
+      {{bug_report}}
+
+      Return:
+      1. Clarifying questions
+      2. Reproduction plan
+      3. Likely root causes
+      4. Files or systems to inspect
+      5. A minimal safe next action
+testData:
+  - input: |
+      project_context: Node.js API with Redis cache and Postgres
+      bug_report: Users intermittently receive stale profile data after updating their settings.
+    expected: The output should propose cache invalidation as one likely cause and include a reproduction plan.
+evaluators:
+  - name: Includes a reproduction plan section
+    string:
+      includes: reproduction plan

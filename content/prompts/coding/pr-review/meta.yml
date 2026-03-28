@@ -1,0 +1,15 @@
+name: PR Review Prompt
+type: prompt
+category: prompts
+summary: Prompt for reviewing code changes and reporting only meaningful findings.
+scenarios:
+  - coding
+  - analysis
+tags:
+  - coding
+  - evaluation
+  - agent
+level: intermediate
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

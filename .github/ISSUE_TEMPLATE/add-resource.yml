@@ -1,0 +1,39 @@
+name: Add resource
+description: Suggest a new skill, prompt, MCP server, workflow, or example.
+title: "[Add] "
+labels:
+  - addition
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+      placeholder: Browser research MCP starter
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - skills
+        - prompts
+        - mcp
+        - workflows
+        - examples
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Why this resource matters
+      placeholder: Explain the concrete use case and what makes it worth listing.
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Primary link
+      placeholder: https://github.com/...
+    validations:
+      required: true

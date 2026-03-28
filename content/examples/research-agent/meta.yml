@@ -1,0 +1,15 @@
+name: Research Agent Example
+type: example
+category: examples
+summary: Blueprint for a research-focused agent that gathers sources and produces a concise brief.
+scenarios:
+  - research
+  - writing
+tags:
+  - research
+  - agent
+  - productivity
+level: beginner
+status: starter
+links:
+  repo: https://github.com/openai/openai-cookbook

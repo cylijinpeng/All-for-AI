@@ -1,0 +1,15 @@
+name: Repository Audit Prompt
+type: prompt
+category: prompts
+summary: Prompt for turning a repository snapshot into a concise technical audit.
+scenarios:
+  - coding
+  - analysis
+tags:
+  - coding
+  - productivity
+  - agent
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

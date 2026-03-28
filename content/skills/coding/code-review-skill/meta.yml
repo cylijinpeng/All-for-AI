@@ -1,0 +1,15 @@
+name: Code Review Skill
+type: skill
+category: skills
+summary: Review code changes with a correctness-first, risk-focused mindset.
+scenarios:
+  - coding
+  - analysis
+tags:
+  - coding
+  - agent
+  - evaluation
+level: intermediate
+status: starter
+links:
+  repo: https://github.com/anthropics/skills

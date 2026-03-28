@@ -1,0 +1,15 @@
+name: Literature Review Skill
+type: skill
+category: skills
+summary: Reusable research skill for synthesizing papers into a structured review.
+scenarios:
+  - research
+  - analysis
+tags:
+  - agent
+  - research
+  - llm
+level: intermediate
+status: starter
+links:
+  repo: https://github.com/openai/openai-cookbook

@@ -1,0 +1,26 @@
+name: Broken link
+description: Report a dead or moved link.
+title: "[Broken link] "
+labels:
+  - bug
+  - links
+body:
+  - type: input
+    id: location
+    attributes:
+      label: File path
+      placeholder: content/prompts/coding/debug-bug/README.md
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Broken link
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      placeholder: Optional context, replacement URL, or screenshot details.

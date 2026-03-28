@@ -1,0 +1,15 @@
+name: Project Brief Prompt
+type: prompt
+category: prompts
+summary: Prompt for converting a rough idea into a buildable project brief.
+scenarios:
+  - writing
+  - analysis
+tags:
+  - productivity
+  - agent
+  - llm
+level: beginner
+status: starter
+links:
+  docs: https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories

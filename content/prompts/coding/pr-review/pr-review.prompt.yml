@@ -1,0 +1,26 @@
+name: PR Review
+description: Reviews a patch and returns prioritized findings with a code-review mindset.
+model: openai/gpt-4o-mini
+modelParameters:
+  temperature: 0.1
+messages:
+  - role: system
+    content: >
+      You are a strict reviewer. Focus on bugs, regressions, risky assumptions, and missing tests.
+      Avoid style commentary unless it affects correctness.
+  - role: user
+    content: |
+      Review the following change.
+
+      Change summary:
+      {{change_summary}}
+
+      Diff or relevant code:
+      {{diff}}
+
+      Return findings only if they matter. If there are no findings, say that clearly and note test gaps.
+testData:
+  - input: |
+      change_summary: Switched cache key from userId to email
+      diff: Cache invalidation still deletes by userId
+    expected: The output should identify stale cache behavior as a likely bug.

@@ -1,0 +1,30 @@
+name: Project Brief
+description: Turns an early idea into a concrete project brief with scope and first milestone.
+model: openai/gpt-4o-mini
+modelParameters:
+  temperature: 0.3
+messages:
+  - role: system
+    content: >
+      You are a product-minded technical writer. Turn rough ideas into clear, buildable briefs.
+  - role: user
+    content: |
+      Create a project brief from the following idea.
+
+      Idea:
+      {{idea}}
+
+      Constraints:
+      {{constraints}}
+
+      Return:
+      1. Problem
+      2. User
+      3. Proposed solution
+      4. Scope and non-goals
+      5. First milestone
+testData:
+  - input: |
+      idea: GitHub repo for reusable AI agent building blocks
+      constraints: Two-week MVP, solo maintainer
+    expected: The output should define a narrow MVP and a first milestone.
