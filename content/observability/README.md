@@ -4,6 +4,7 @@ Tooling for tracing, inspecting, and monitoring prompts, agents, and LLM applica
 
 ## Starter entries
 
+- [`langsmith`](langsmith/README.md)
 - [`langfuse`](langfuse/README.md)
 - [`phoenix`](phoenix/README.md)
 - [`openinference`](openinference/README.md)

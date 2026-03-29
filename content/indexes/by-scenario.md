@@ -11,6 +11,8 @@
 - [Issue to PR Workflow](../workflows/coding/issue-to-pr/README.md)
 - [OpenAI Agents SDK (JavaScript/TypeScript)](../frameworks/openai-agents-js/README.md)
 - [LangGraph](../frameworks/langgraph/README.md)
+- [OpenHands](../examples/reference/openhands/README.md)
+- [Aider](../examples/reference/aider/README.md)
 
 ## Research and analysis
 
@@ -61,3 +63,4 @@
 - [SGLang](../serving/sglang/README.md)
 - [LiteLLM](../frameworks/litellm/README.md)
 - [OpenLIT](../observability/openlit/README.md)
+- [LangSmith](../observability/langsmith/README.md)

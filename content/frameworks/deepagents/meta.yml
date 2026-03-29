@@ -1,0 +1,15 @@
+name: DeepAgents
+type: repo
+category: frameworks
+summary: Framework for building deeper, multi-step agent systems from the LangChain ecosystem.
+scenarios:
+  - coding
+  - automation
+tags:
+  - framework
+  - agent
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/langchain-ai/deepagents

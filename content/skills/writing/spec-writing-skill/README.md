@@ -17,3 +17,12 @@ Skill for turning a rough feature idea into a clear technical spec and implement
 - List requirements and constraints
 - Describe milestones and validation
 - Flag open questions
+
+## Files in this entry
+
+- [`SKILL.md`](SKILL.md)
+
+## Reference
+
+- https://github.com/cylijinpeng/ai-builder-kit
+

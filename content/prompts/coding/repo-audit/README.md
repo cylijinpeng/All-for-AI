@@ -13,3 +13,12 @@ Prompt for auditing a repository's structure, quality signals, and likely improv
 ## Output expectation
 
 The response should include repo purpose, strengths, risks, missing pieces, and the next recommended action.
+
+## Files in this entry
+
+- [`repo-audit.prompt.yml`](repo-audit.prompt.yml)
+
+## Reference
+
+- https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories
+

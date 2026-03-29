@@ -13,3 +13,7 @@ Entry for the official Model Context Protocol reference server collection.
 ## Why it matters
 
 This is the most useful starting point when contributors ask which MCP servers are worth learning first.
+
+## Reference
+
+- Repo: https://github.com/modelcontextprotocol/servers

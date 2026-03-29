@@ -18,3 +18,12 @@ The response should include:
 - Recommended test layers
 - Key cases
 - What can stay manual
+
+## Files in this entry
+
+- [`test-strategy.prompt.yml`](test-strategy.prompt.yml)
+
+## Reference
+
+- https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories
+

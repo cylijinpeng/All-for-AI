@@ -18,3 +18,12 @@ The response should include:
 - Strengths and weaknesses
 - Positioning gaps
 - Strategic takeaways
+
+## Files in this entry
+
+- [`competitor-analysis.prompt.yml`](competitor-analysis.prompt.yml)
+
+## Reference
+
+- https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories
+

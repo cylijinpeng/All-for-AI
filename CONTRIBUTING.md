@@ -83,6 +83,12 @@ For a stricter network check, run:
 CHECK_LINKS_NETWORK=1 node scripts/check-links.js
 ```
 
+To verify that external metadata links are also surfaced in resource README files, run:
+
+```bash
+node scripts/check-readme-links.js
+```
+
 ## Pull requests
 
 Keep pull requests focused. A single PR should usually add one resource family or one documentation improvement.

@@ -1,11 +1,12 @@
-# All for AI
+# AI Builder Kit
 
 Curated, practical resources for building AI products and agents.
 
-![Curated](https://img.shields.io/badge/curated-107_resources-0A66C2)
+![Curated](https://img.shields.io/badge/curated-112_resources-0A66C2)
 ![Original](https://img.shields.io/badge/original-41_assets-1B873F)
 ![Categories](https://img.shields.io/badge/categories-12-orange)
 ![License](https://img.shields.io/badge/license-MIT-black)
+![GitHub stars](https://img.shields.io/github/stars/cylijinpeng/ai-builder-kit?style=social)
 
 This is not a generic AI link dump.
 
@@ -30,6 +31,8 @@ If you want a repository people can actually use, this is the bar:
 - It maps the current practical stack for **agents, prompts, instructions, MCP, frameworks, retrieval, evals, observability, and serving**.
 - It includes opinionated starter packs so people can stop asking "where do I begin?"
 
+If this repo saves you time, consider starring it.
+
 ## Start Here
 
 If you only open one page, start here:
@@ -53,7 +56,7 @@ If you only open one page, start here:
 
 ## What Is Inside
 
-The repository currently includes **107 curated entries** across **12 categories**:
+The repository currently includes **112 curated entries** across **12 categories**:
 
 | Category | Count | What it contains |
 | --- | ---: | --- |
@@ -61,13 +64,13 @@ The repository currently includes **107 curated entries** across **12 categories
 | [Prompts](content/prompts/README.md) | 20 | copy-ready prompt files and prompt references |
 | [Instructions](content/instructions/README.md) | 6 | AGENTS.md, Copilot, Cursor, and CLAUDE.md guidance |
 | [MCP](content/mcp/README.md) | 9 | official MCP docs, SDKs, servers, and tools |
-| [Frameworks](content/frameworks/README.md) | 15 | agent and AI application frameworks |
+| [Frameworks](content/frameworks/README.md) | 16 | agent and AI application frameworks |
 | [Retrieval](content/retrieval/README.md) | 5 | RAG and vector retrieval infrastructure |
-| [Observability](content/observability/README.md) | 6 | tracing, monitoring, and AI observability |
+| [Observability](content/observability/README.md) | 7 | tracing, monitoring, and AI observability |
 | [Serving](content/serving/README.md) | 4 | local and production model serving tools |
 | [Evals](content/evals/README.md) | 5 | prompt and agent evaluation tools |
 | [Workflows](content/workflows/README.md) | 9 | end-to-end execution playbooks |
-| [Examples](content/examples/README.md) | 8 | reference repos and runnable blueprints |
+| [Examples](content/examples/README.md) | 11 | reference repos and runnable blueprints |
 | [Starter Packs](content/starter-packs/README.md) | 6 | opinionated stack recommendations |
 
 ## Best Pages
@@ -91,8 +94,10 @@ These are some of the highest-value external ecosystems currently included:
 - [OpenAI Agents SDK (JavaScript/TypeScript)](content/frameworks/openai-agents-js/README.md)
 - [OpenAI Agents SDK (Python)](content/frameworks/openai-agents-python/README.md)
 - [LangGraph](content/frameworks/langgraph/README.md)
+- [LangSmith](content/observability/langsmith/README.md)
 - [promptfoo](content/evals/promptfoo/README.md)
 - [OpenAI Cookbook](content/examples/reference/openai-cookbook/README.md)
+- [OpenHands](content/examples/reference/openhands/README.md)
 
 ## Original Assets
 

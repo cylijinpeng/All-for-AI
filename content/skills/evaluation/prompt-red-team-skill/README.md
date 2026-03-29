@@ -17,3 +17,12 @@ Skill for stress-testing prompts and agent instructions against failure modes, a
 - Look for ambiguity and hidden assumptions
 - Recommend defensive prompt or eval changes
 - Summarize residual risk
+
+## Files in this entry
+
+- [`SKILL.md`](SKILL.md)
+
+## Reference
+
+- https://github.com/cylijinpeng/ai-builder-kit
+

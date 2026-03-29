@@ -18,3 +18,12 @@ The response should include:
 - Affected areas
 - Implementation steps
 - Verification plan
+
+## Files in this entry
+
+- [`implementation-plan.prompt.yml`](implementation-plan.prompt.yml)
+
+## Reference
+
+- https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories
+

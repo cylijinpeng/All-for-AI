@@ -17,3 +17,12 @@ Reusable debugging skill for narrowing incidents and regressions down to the mos
 - Ask for missing signals or logs
 - Rank root-cause hypotheses by evidence
 - Recommend the smallest next verification step
+
+## Files in this entry
+
+- [`SKILL.md`](SKILL.md)
+
+## Reference
+
+- https://github.com/cylijinpeng/ai-builder-kit
+

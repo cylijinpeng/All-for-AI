@@ -18,3 +18,12 @@ The response should include:
 - User and use cases
 - Scope and non-goals
 - Implementation outline
+
+## Files in this entry
+
+- [`feature-spec.prompt.yml`](feature-spec.prompt.yml)
+
+## Reference
+
+- https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories
+

@@ -18,3 +18,12 @@ The response should include:
 - Dataset ideas
 - Eval types
 - Pass/fail criteria
+
+## Files in this entry
+
+- [`eval-plan.prompt.yml`](eval-plan.prompt.yml)
+
+## Reference
+
+- https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories
+

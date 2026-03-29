@@ -23,3 +23,12 @@ A research-focused skill for turning a topic, source list, or paper set into a s
 - Do not invent citations
 - Separate facts from inferences
 - Flag weak or outdated sources
+
+## Files in this entry
+
+- [`SKILL.md`](SKILL.md)
+
+## Reference
+
+- https://github.com/openai/openai-cookbook
+

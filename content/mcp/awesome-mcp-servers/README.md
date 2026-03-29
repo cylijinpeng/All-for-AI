@@ -13,3 +13,7 @@ Curated discovery layer for MCP servers across many integration categories.
 ## Why it matters
 
 The official reference set is not the full ecosystem. This collection is useful once a builder wants more options.
+
+## Reference
+
+- Repo: https://github.com/appcypher/awesome-mcp-servers

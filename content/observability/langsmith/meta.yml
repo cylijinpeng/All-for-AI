@@ -1,0 +1,15 @@
+name: LangSmith
+type: repo
+category: observability
+summary: Tracing, evaluation, and prompt/agent observability platform from LangChain.
+scenarios:
+  - analysis
+  - automation
+tags:
+  - observability
+  - evaluation
+  - productivity
+level: intermediate
+status: active
+links:
+  repo: https://github.com/langchain-ai/langsmith-sdk

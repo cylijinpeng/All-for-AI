@@ -22,3 +22,12 @@ Skill for reviewing a patch, commit set, or pull request with a bug-first mindse
 - Do not praise the code by default
 - Prioritize correctness over style
 - Cite concrete files or functions when possible
+
+## Files in this entry
+
+- [`SKILL.md`](SKILL.md)
+
+## Reference
+
+- https://github.com/anthropics/skills
+

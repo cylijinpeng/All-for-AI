@@ -9,6 +9,7 @@ If you only have 15 minutes, use this page.
 - [Debug Bug Prompt](../prompts/coding/debug-bug/README.md)
 - [OpenAI Agents SDK (JavaScript/TypeScript)](../frameworks/openai-agents-js/README.md)
 - [promptfoo](../evals/promptfoo/README.md)
+- [OpenHands](../examples/reference/openhands/README.md)
 
 ## I want a deep research assistant
 

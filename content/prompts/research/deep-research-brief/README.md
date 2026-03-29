@@ -18,3 +18,12 @@ The response should include:
 - Research questions
 - Source priorities
 - Brief structure
+
+## Files in this entry
+
+- [`deep-research-brief.prompt.yml`](deep-research-brief.prompt.yml)
+
+## Reference
+
+- https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories
+

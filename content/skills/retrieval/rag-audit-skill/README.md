@@ -17,3 +17,12 @@ Skill for auditing retrieval pipelines and proposing the next highest-leverage i
 - Separate retrieval problems from generation problems
 - Recommend measurement changes
 - Prioritize fixes by expected impact
+
+## Files in this entry
+
+- [`SKILL.md`](SKILL.md)
+
+## Reference
+
+- https://github.com/cylijinpeng/ai-builder-kit
+

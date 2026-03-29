@@ -19,3 +19,4 @@ Major agent, orchestration, retrieval, and workflow frameworks used by AI builde
 - [`mastra`](mastra/README.md)
 - [`agno`](agno/README.md)
 - [`haystack`](haystack/README.md)
+- [`deepagents`](deepagents/README.md)

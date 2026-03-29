@@ -1,0 +1,15 @@
+name: Aider
+type: repo
+category: examples
+summary: Popular AI pair-programming tool for editing code in local Git repositories.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - productivity
+  - llm
+level: beginner
+status: active
+links:
+  repo: https://github.com/Aider-AI/aider

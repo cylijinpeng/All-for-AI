@@ -18,3 +18,12 @@ The response should include:
 - Highest-risk weaknesses
 - Likely scale or reliability issues
 - Suggested next design changes
+
+## Files in this entry
+
+- [`architecture-review.prompt.yml`](architecture-review.prompt.yml)
+
+## Reference
+
+- https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories
+

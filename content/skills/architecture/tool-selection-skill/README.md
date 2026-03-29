@@ -17,3 +17,12 @@ Skill for choosing frameworks, MCP servers, retrieval layers, or eval tools base
 - Compare a small set of viable options
 - Recommend one option and why
 - List upgrade or fallback paths
+
+## Files in this entry
+
+- [`SKILL.md`](SKILL.md)
+
+## Reference
+
+- https://github.com/cylijinpeng/ai-builder-kit
+

@@ -15,3 +15,6 @@ Runnable or near-runnable blueprints that show how these building blocks fit tog
 - [`reference/mastra-docs-chatbot-template`](reference/mastra-docs-chatbot-template/README.md): docs chatbot starter on Mastra
 - [`reference/agent-ui`](reference/agent-ui/README.md): open-source UI for agent backends
 - [`reference/weaviate-recipes`](reference/weaviate-recipes/README.md): retrieval and vector search recipes
+- [`reference/openhands`](reference/openhands/README.md): open-source coding agent platform
+- [`reference/swe-agent`](reference/swe-agent/README.md): benchmark-driven software engineering agent reference
+- [`reference/aider`](reference/aider/README.md): practical AI pair-programming tool for Git repositories

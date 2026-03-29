@@ -22,3 +22,12 @@ Skill for quickly understanding an unfamiliar repository and deciding what to wo
 - Avoid broad rewrites
 - Distinguish unknowns from confirmed facts
 - Prefer actionable next steps over big strategic essays
+
+## Files in this entry
+
+- [`SKILL.md`](SKILL.md)
+
+## Reference
+
+- https://github.com/openai/skills
+

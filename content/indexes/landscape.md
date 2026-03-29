@@ -64,6 +64,7 @@ Curated map of the most useful repositories and official docs for AI builders.
 | Mastra | TypeScript-first agent and workflow framework | https://github.com/mastra-ai/mastra |
 | Agno | Tool-using multimodal agent framework | https://github.com/agno-agi/agno |
 | Haystack | Production LLM and RAG framework | https://github.com/deepset-ai/haystack |
+    | DeepAgents | Longer-horizon agent framework from LangChain | https://github.com/langchain-ai/deepagents |
 
 ## Retrieval and RAG infrastructure
 
@@ -90,6 +91,7 @@ Curated map of the most useful repositories and official docs for AI builders.
 | Resource | Why it matters | Link |
 | --- | --- | --- |
 | Langfuse | Tracing, prompts, and eval visibility | https://github.com/langfuse/langfuse |
+    | LangSmith | Prompt, agent, and evaluation observability | https://github.com/langchain-ai/langsmith-sdk |
 | Phoenix | AI observability and evaluation platform | https://github.com/Arize-ai/phoenix |
 | OpenInference | Open instrumentation standard | https://github.com/Arize-ai/openinference |
 | OpenLLMetry | OpenTelemetry for LLM apps | https://github.com/traceloop/openllmetry |
@@ -115,3 +117,6 @@ Curated map of the most useful repositories and official docs for AI builders.
 | Mastra Docs Chatbot Template | Concrete docs assistant starter | https://github.com/mastra-ai/template-docs-chatbot |
 | Agent UI | Open-source frontend for agents | https://github.com/agno-agi/agent-ui |
 | Weaviate Recipes | Hands-on vector and retrieval examples | https://github.com/weaviate/recipes |
+    | OpenHands | Open-source coding agent platform | https://github.com/All-Hands-AI/OpenHands |
+    | SWE-agent | Software engineering agent framework and benchmark reference | https://github.com/SWE-agent/SWE-agent |
+    | Aider | Practical AI pair-programming tool for Git repos | https://github.com/Aider-AI/aider |

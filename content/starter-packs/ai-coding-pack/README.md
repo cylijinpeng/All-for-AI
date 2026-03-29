@@ -25,11 +25,15 @@ Starter pack for code-focused AI workflows, including instructions, prompts, ski
   - [OpenAI Agents SDK (JavaScript/TypeScript)](../../frameworks/openai-agents-js/README.md)
   - [OpenAI Agents SDK (Python)](../../frameworks/openai-agents-python/README.md)
   - [LangGraph](../../frameworks/langgraph/README.md)
+  - [DeepAgents](../../frameworks/deepagents/README.md)
 - Evals
   - [promptfoo](../../evals/promptfoo/README.md)
 - Examples
   - [OpenAI Cookbook](../../examples/reference/openai-cookbook/README.md)
   - [Awesome LLM Apps](../../examples/reference/awesome-llm-apps/README.md)
+  - [OpenHands](../../examples/reference/openhands/README.md)
+  - [SWE-agent](../../examples/reference/swe-agent/README.md)
+  - [Aider](../../examples/reference/aider/README.md)
 
 ## How to use this pack
 

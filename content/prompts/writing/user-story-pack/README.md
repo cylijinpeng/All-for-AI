@@ -18,3 +18,12 @@ The response should include:
 - Acceptance criteria
 - Edge cases
 - MVP slice
+
+## Files in this entry
+
+- [`user-story-pack.prompt.yml`](user-story-pack.prompt.yml)
+
+## Reference
+
+- https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories
+

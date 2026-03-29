@@ -18,3 +18,12 @@ The response should include:
 - Constraints
 - Step-by-step plan
 - Risk controls and test plan
+
+## Files in this entry
+
+- [`refactor-plan.prompt.yml`](refactor-plan.prompt.yml)
+
+## Reference
+
+- https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories
+

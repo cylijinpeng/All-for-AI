@@ -18,3 +18,12 @@ The response should include:
 - Compatibility risks
 - Rollback plan
 - Validation checkpoints
+
+## Files in this entry
+
+- [`migration-plan.prompt.yml`](migration-plan.prompt.yml)
+
+## Reference
+
+- https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories
+

@@ -28,3 +28,4 @@ Short list of high-signal starting points from the current collection.
 - [LangGraph](../frameworks/langgraph/README.md)
 - [promptfoo](../evals/promptfoo/README.md)
 - [OpenAI Cookbook](../examples/reference/openai-cookbook/README.md)
+- [OpenHands](../examples/reference/openhands/README.md)

@@ -18,3 +18,12 @@ The response should include:
 - Root cause
 - Contributing factors
 - Prevention actions
+
+## Files in this entry
+
+- [`incident-postmortem.prompt.yml`](incident-postmortem.prompt.yml)
+
+## Reference
+
+- https://docs.github.com/en/github-models/use-github-models/storing-prompts-in-github-repositories
+

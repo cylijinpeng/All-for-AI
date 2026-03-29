@@ -1,0 +1,15 @@
+name: OpenHands
+type: repo
+category: examples
+summary: Open-source software engineering agent platform for coding tasks.
+scenarios:
+  - coding
+  - automation
+tags:
+  - agent
+  - productivity
+  - llm
+level: beginner
+status: active
+links:
+  repo: https://github.com/All-Hands-AI/OpenHands
