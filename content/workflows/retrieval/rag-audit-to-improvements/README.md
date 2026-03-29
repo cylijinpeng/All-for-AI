@@ -17,3 +17,9 @@ Workflow for auditing a retrieval system and converting findings into a prioriti
 - A concrete output artifact
 - A short validation note
 - A clear next step if more work is needed
+
+## Related resources
+
+- [RAG Audit Skill](../../skills/retrieval/rag-audit-skill/README.md)
+- [RAGFlow](../../retrieval/ragflow/README.md)
+- [Phoenix](../../observability/phoenix/README.md)

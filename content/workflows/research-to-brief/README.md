@@ -23,3 +23,9 @@ Turn a broad topic into a concise brief with sources, key claims, risks, and nex
 - One-page brief
 - Source list
 - Open questions
+
+## Related resources
+
+- [Deep Research Brief Prompt](../../prompts/research/deep-research-brief/README.md)
+- [Literature Review Skill](../../skills/research/literature-review-skill/README.md)
+- [Research Agent Example](../../examples/research-agent/README.md)

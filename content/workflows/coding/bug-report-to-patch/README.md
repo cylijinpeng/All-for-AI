@@ -24,3 +24,10 @@ Turn a vague bug report into a verified patch with minimal unnecessary change.
 - Reproduction notes
 - Patch
 - Verification notes
+
+## Related resources
+
+- [Debug Bug Prompt](../../prompts/coding/debug-bug/README.md)
+- [Root Cause Analysis Skill](../../skills/coding/root-cause-analysis-skill/README.md)
+- [Test Planning Skill](../../skills/coding/test-planning-skill/README.md)
+- [promptfoo](../../evals/promptfoo/README.md)

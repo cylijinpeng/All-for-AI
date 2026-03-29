@@ -17,3 +17,9 @@ Workflow for choosing an agent or AI framework based on language, constraints, a
 - A concrete output artifact
 - A short validation note
 - A clear next step if more work is needed
+
+## Related resources
+
+- [Tool Selection Skill](../../skills/architecture/tool-selection-skill/README.md)
+- [DeepAgents](../../frameworks/deepagents/README.md)
+- [LangGraph](../../frameworks/langgraph/README.md)

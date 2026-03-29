@@ -17,3 +17,9 @@ Workflow for converting a written spec into an implementation plan, code changes
 - A concrete output artifact
 - A short validation note
 - A clear next step if more work is needed
+
+## Related resources
+
+- [Feature Spec Prompt](../../prompts/writing/feature-spec/README.md)
+- [Implementation Plan Prompt](../../prompts/coding/implementation-plan/README.md)
+- [Spec Writing Skill](../../skills/writing/spec-writing-skill/README.md)

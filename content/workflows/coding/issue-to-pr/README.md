@@ -18,3 +18,9 @@ Workflow for turning a scoped issue into a validated implementation and pull req
 - A concrete output artifact
 - A short validation note
 - A clear next step if more work is needed
+
+## Related resources
+
+- [Implementation Plan Prompt](../../prompts/coding/implementation-plan/README.md)
+- [PR Review Prompt](../../prompts/coding/pr-review/README.md)
+- [Code Review Skill](../../skills/coding/code-review-skill/README.md)

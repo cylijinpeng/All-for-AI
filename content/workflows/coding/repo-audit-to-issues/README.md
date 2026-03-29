@@ -23,3 +23,9 @@ Inspect a repository and turn observations into a small, prioritized issue backl
 - Technical audit summary
 - Prioritized issue list
 - Suggested first issue
+
+## Related resources
+
+- [Repository Audit Prompt](../../prompts/coding/repo-audit/README.md)
+- [Repository Triage Skill](../../skills/coding/repo-triage-skill/README.md)
+- [OpenHands](../../examples/reference/openhands/README.md)

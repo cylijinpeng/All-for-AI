@@ -17,3 +17,9 @@ Workflow for iterating on prompts with explicit evaluation instead of subjective
 - A concrete output artifact
 - A short validation note
 - A clear next step if more work is needed
+
+## Related resources
+
+- [Eval Plan Prompt](../../prompts/analysis/eval-plan/README.md)
+- [Prompt Red Team Skill](../../skills/evaluation/prompt-red-team-skill/README.md)
+- [Inspect AI](../../evals/inspect-ai/README.md)

@@ -17,3 +17,9 @@ Workflow for choosing or scoping an MCP server for a concrete automation or tool
 - A concrete output artifact
 - A short validation note
 - A clear next step if more work is needed
+
+## Related resources
+
+- [MCP Server Design Prompt](../../prompts/automation/mcp-server-design/README.md)
+- [GitHub MCP Server](../../mcp/github-mcp-server/README.md)
+- [MCP Inspector](../../mcp/inspector/README.md)
