@@ -11,10 +11,24 @@ Starter pack for retrieval-heavy AI applications and document-grounded assistant
 
 ## Recommended stack
 
-- RAGFlow, Qdrant, Weaviate, Milvus, or pgvector depending on scale
-- LlamaIndex or Haystack as app framework
-- Phoenix, Langfuse, and OpenInference for tracing and eval visibility
-- Paper summary, competitor analysis, and spec-writing prompts for downstream synthesis
+- Retrieval stack
+  - [RAGFlow](../../retrieval/ragflow/README.md)
+  - [Qdrant](../../retrieval/qdrant/README.md)
+  - [Weaviate](../../retrieval/weaviate/README.md)
+  - [Milvus](../../retrieval/milvus/README.md)
+  - [pgvector](../../retrieval/pgvector/README.md)
+- Frameworks
+  - [LlamaIndex](../../frameworks/llamaindex/README.md)
+  - [Haystack](../../frameworks/haystack/README.md)
+- Audit and observability
+  - [RAG Audit Skill](../../skills/retrieval/rag-audit-skill/README.md)
+  - [Phoenix](../../observability/phoenix/README.md)
+  - [Langfuse](../../observability/langfuse/README.md)
+  - [OpenInference](../../observability/openinference/README.md)
+- Downstream synthesis
+  - [Paper Summary Prompt](../../prompts/research/paper-summary/README.md)
+  - [Competitor Analysis Prompt](../../prompts/research/competitor-analysis/README.md)
+  - [Feature Spec Prompt](../../prompts/writing/feature-spec/README.md)
 
 ## How to use this pack
 

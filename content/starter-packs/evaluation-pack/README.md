@@ -11,10 +11,18 @@ Starter pack for prompt, agent, and application quality testing.
 
 ## Recommended stack
 
-- promptfoo for fast comparisons and red teaming
-- OpenAI Evals or Inspect AI for more structured evals
-- Langfuse or Phoenix for tracing and analysis
-- Prompt-red-team and eval-design skills for custom evaluation work
+- Eval tools
+  - [promptfoo](../../evals/promptfoo/README.md)
+  - [OpenAI Evals](../../evals/openai-evals/README.md)
+  - [Inspect AI](../../evals/inspect-ai/README.md)
+- Observability
+  - [Langfuse](../../observability/langfuse/README.md)
+  - [Phoenix](../../observability/phoenix/README.md)
+- Skills and prompts
+  - [Prompt Red Team Skill](../../skills/evaluation/prompt-red-team-skill/README.md)
+  - [Eval Plan Prompt](../../prompts/analysis/eval-plan/README.md)
+- Workflow
+  - [Prompt to Eval Loop Workflow](../../workflows/evaluation/prompt-to-eval-loop/README.md)
 
 ## How to use this pack
 

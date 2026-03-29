@@ -11,11 +11,24 @@ Starter pack for source gathering, synthesis, literature review, and research br
 
 ## Recommended stack
 
-- Literature review skill and paper summary prompt
-- Research-to-brief workflow
-- LlamaIndex or Haystack for retrieval workflows
-- OpenAI Evals or Phoenix for quality inspection
-- OpenAI Cookbook for example patterns
+- Skills
+  - [Literature Review Skill](../../skills/research/literature-review-skill/README.md)
+  - [Spec Writing Skill](../../skills/writing/spec-writing-skill/README.md)
+- Prompts
+  - [Paper Summary Prompt](../../prompts/research/paper-summary/README.md)
+  - [Deep Research Brief Prompt](../../prompts/research/deep-research-brief/README.md)
+  - [Competitor Analysis Prompt](../../prompts/research/competitor-analysis/README.md)
+- Workflows
+  - [Research to Brief Workflow](../../workflows/research-to-brief/README.md)
+- Frameworks
+  - [LlamaIndex](../../frameworks/llamaindex/README.md)
+  - [Haystack](../../frameworks/haystack/README.md)
+- Quality and observability
+  - [OpenAI Evals](../../evals/openai-evals/README.md)
+  - [Phoenix](../../observability/phoenix/README.md)
+- Examples
+  - [OpenAI Cookbook](../../examples/reference/openai-cookbook/README.md)
+  - [Haystack Cookbook](../../examples/reference/haystack-cookbook/README.md)
 
 ## How to use this pack
 

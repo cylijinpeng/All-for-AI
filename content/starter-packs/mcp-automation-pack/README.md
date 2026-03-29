@@ -11,11 +11,23 @@ Starter pack for tool-using agents built around MCP servers, SDKs, and debugging
 
 ## Recommended stack
 
-- MCP overview, reference servers, and SDKs
-- Playwright MCP for browser tasks
-- MCP Inspector for debugging
-- OpenAI Agents SDK, AutoGen, or CrewAI for orchestration
-- Prompts and workflows for MCP server selection and tool design
+- MCP foundations
+  - [Model Context Protocol Overview](../../mcp/official-overview/README.md)
+  - [MCP Reference Servers](../../mcp/reference-servers/README.md)
+  - [MCP Python SDK](../../mcp/python-sdk/README.md)
+  - [MCP TypeScript SDK](../../mcp/typescript-sdk/README.md)
+- High-value servers and tooling
+  - [Browser Use MCP Starter](../../mcp/browser-use-starter/README.md)
+  - [GitHub MCP Server](../../mcp/github-mcp-server/README.md)
+  - [mcp-use](../../mcp/mcp-use/README.md)
+  - [MCP Inspector](../../mcp/inspector/README.md)
+- Frameworks
+  - [OpenAI Agents SDK (JavaScript/TypeScript)](../../frameworks/openai-agents-js/README.md)
+  - [Microsoft AutoGen](../../frameworks/microsoft-autogen/README.md)
+  - [CrewAI](../../frameworks/crewai/README.md)
+- Prompts and workflows
+  - [MCP Server Design Prompt](../../prompts/automation/mcp-server-design/README.md)
+  - [MCP Server Selection Workflow](../../workflows/automation/mcp-server-selection/README.md)
 
 ## How to use this pack
 

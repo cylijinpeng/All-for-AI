@@ -11,11 +11,25 @@ Starter pack for code-focused AI workflows, including instructions, prompts, ski
 
 ## Recommended stack
 
-- Code review and repo triage skills
-- Prompt files for bug triage, PR review, implementation planning, and test strategy
-- OpenAI Agents SDK or LangGraph for orchestration
-- promptfoo for regression-style prompt and agent checks
-- OpenAI Cookbook and Awesome LLM Apps for examples
+- Skills
+  - [Code Review Skill](../../skills/coding/code-review-skill/README.md)
+  - [Repository Triage Skill](../../skills/coding/repo-triage-skill/README.md)
+  - [Root Cause Analysis Skill](../../skills/coding/root-cause-analysis-skill/README.md)
+  - [Test Planning Skill](../../skills/coding/test-planning-skill/README.md)
+- Prompts
+  - [Debug Bug Prompt](../../prompts/coding/debug-bug/README.md)
+  - [PR Review Prompt](../../prompts/coding/pr-review/README.md)
+  - [Implementation Plan Prompt](../../prompts/coding/implementation-plan/README.md)
+  - [Test Strategy Prompt](../../prompts/coding/test-strategy/README.md)
+- Frameworks
+  - [OpenAI Agents SDK (JavaScript/TypeScript)](../../frameworks/openai-agents-js/README.md)
+  - [OpenAI Agents SDK (Python)](../../frameworks/openai-agents-python/README.md)
+  - [LangGraph](../../frameworks/langgraph/README.md)
+- Evals
+  - [promptfoo](../../evals/promptfoo/README.md)
+- Examples
+  - [OpenAI Cookbook](../../examples/reference/openai-cookbook/README.md)
+  - [Awesome LLM Apps](../../examples/reference/awesome-llm-apps/README.md)
 
 ## How to use this pack
 

@@ -11,10 +11,17 @@ Starter pack for self-hosted and local model workflows.
 
 ## Recommended stack
 
-- Ollama or llama.cpp for local development
-- vLLM or SGLang for higher-scale serving
-- LiteLLM when you need provider routing across local and hosted endpoints
-- OpenLIT or Helicone for visibility and usage inspection
+- Local development
+  - [Ollama](../../serving/ollama/README.md)
+  - [llama.cpp](../../serving/llama-cpp/README.md)
+- Higher-scale serving
+  - [vLLM](../../serving/vllm/README.md)
+  - [SGLang](../../serving/sglang/README.md)
+- Routing and gateway
+  - [LiteLLM](../../frameworks/litellm/README.md)
+- Observability
+  - [OpenLIT](../../observability/openlit/README.md)
+  - [Helicone](../../observability/helicone/README.md)
 
 ## How to use this pack
 
